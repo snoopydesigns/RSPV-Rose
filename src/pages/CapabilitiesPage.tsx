@@ -24,6 +24,7 @@ import {
   CapabilitiesPageSkeleton, 
   NaicsTableSkeleton 
 } from '../components/CapabilitySkeleton';
+import { MediaImage } from '../components/MediaImage';
 
 interface CapabilitiesPageProps {
   onNavigate: (page: string, capabilityId?: string) => void;
@@ -269,11 +270,11 @@ export const CapabilitiesPage: React.FC<CapabilitiesPageProps> = ({
                         {/* Visual Column */}
                         <div className={`lg:col-span-5 ${isReversed ? 'lg:order-2' : 'lg:order-1'}`}>
                           <div className="border border-stone-200 overflow-hidden bg-stone-100 aspect-[4/3] relative group">
-                            <img
+                            <MediaImage
                               src={cap.imageSrc}
                               alt={cap.imageAlt}
+                              fallbackLabel={cap.title}
                               className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
-                              referrerPolicy="no-referrer"
                             />
                           </div>
                         </div>

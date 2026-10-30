@@ -5,7 +5,9 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: './',
     plugins: [react(), tailwindcss()],
+    assetsInclude: ['**/*.mp4', '**/*.webm'],
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),

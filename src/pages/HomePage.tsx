@@ -27,7 +27,9 @@ import {
   DIFFERENTIATORS, 
   PROCESS_STAGES, 
   MARKET_GROUPS,
-  CapabilityItem
+  CapabilityItem,
+  heroCorporateFacilityImg,
+  facilityInteriorFinishingImg
 } from '../data/companyData';
 import { HeroVideoBackground } from '../components/HeroVideoBackground';
 import { ScrollReveal, StaggerContainer, StaggerItem } from '../components/ScrollReveal';
@@ -89,7 +91,7 @@ export const HomePage: React.FC<HomePageProps> = ({
           ========================================================================= */}
       <section className="relative bg-[#30202D] text-white overflow-hidden border-b border-white/10 pt-10 pb-16 lg:pt-16 lg:pb-24">
         {/* Cinematic Video Background with Measured Aubergine Scrims & Controls */}
-        <HeroVideoBackground posterImage="/src/assets/images/hero_corporate_facility_1792504461500.jpg" />
+        <HeroVideoBackground posterImage={heroCorporateFacilityImg} />
 
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-8 items-center">
@@ -196,7 +198,7 @@ export const HomePage: React.FC<HomePageProps> = ({
             >
               <div className="relative border border-white/20 shadow-2xl overflow-hidden bg-stone-900 group">
                 <img
-                  src="/src/assets/images/hero_corporate_facility_1792504461500.jpg"
+                  src={heroCorporateFacilityImg}
                   alt="Contemporary corporate and public administration facility"
                   className="w-full h-[380px] sm:h-[440px] object-cover transition-transform duration-700 group-hover:scale-105"
                   referrerPolicy="no-referrer"
@@ -332,7 +334,7 @@ export const HomePage: React.FC<HomePageProps> = ({
               <div className="relative border border-[#D9D4CC] shadow-lg p-2 bg-white">
                 <div className="overflow-hidden">
                   <img
-                    src="/src/assets/images/facility_interior_finishing_1792504462310.jpg"
+                    src={facilityInteriorFinishingImg}
                     alt="High quality facility enhancement and architectural execution"
                     className="w-full h-[360px] object-cover transition-transform duration-700 hover:scale-105"
                     referrerPolicy="no-referrer"

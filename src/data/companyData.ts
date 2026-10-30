@@ -1,3 +1,17 @@
+import communicationsHardwareImg from '../assets/images/communications_hardware_1792504461393.jpg';
+import logisticsDistributionImg from '../assets/images/logistics_distribution_hub_1792504462659.jpg';
+import heroCorporateFacilityImg from '../assets/images/hero_corporate_facility_1792504461500.jpg';
+import civicCommunityBuildingImg from '../assets/images/civic_community_building_1792504463511.jpg';
+import facilityInteriorFinishingImg from '../assets/images/facility_interior_finishing_1792504462310.jpg';
+
+export {
+  communicationsHardwareImg,
+  logisticsDistributionImg,
+  heroCorporateFacilityImg,
+  civicCommunityBuildingImg,
+  facilityInteriorFinishingImg,
+};
+
 export interface NAICSCode {
   code: string;
   title: string;
@@ -95,7 +109,7 @@ export const CAPABILITIES: CapabilityItem[] = [
       "Security teams and municipal facility directors",
       "Prime contractors requiring compliant radio equipment sourcing"
     ],
-    imageSrc: "/src/assets/images/communications_hardware_1792504461393.jpg",
+    imageSrc: communicationsHardwareImg,
     imageAlt: "Push-to-Talk over Cellular radio communications hardware and transceivers"
   },
   {
@@ -116,7 +130,7 @@ export const CAPABILITIES: CapabilityItem[] = [
       "Commercial developers requiring scheduled material staging",
       "Prime contractors managing multi-vendor logistical pipelines"
     ],
-    imageSrc: "/src/assets/images/logistics_distribution_hub_1792504462659.jpg",
+    imageSrc: logisticsDistributionImg,
     imageAlt: "Modern organized logistics warehouse and distribution facility"
   },
   {
@@ -137,7 +151,7 @@ export const CAPABILITIES: CapabilityItem[] = [
       "Commercial asset managers seeking third-party analysis",
       "Organizations planning physical relocations or footprint consolidation"
     ],
-    imageSrc: "/src/assets/images/hero_corporate_facility_1792504461500.jpg",
+    imageSrc: heroCorporateFacilityImg,
     imageAlt: "Contemporary commercial and government administrative building architecture"
   },
   {
@@ -158,7 +172,7 @@ export const CAPABILITIES: CapabilityItem[] = [
       "Infrastructure teams conducting environmental and civic outreach",
       "Civic non-profits and public-private community partnerships"
     ],
-    imageSrc: "/src/assets/images/civic_community_building_1792504463511.jpg",
+    imageSrc: civicCommunityBuildingImg,
     imageAlt: "Accessible civic community center and welcoming public entryway"
   },
   {
@@ -179,7 +193,7 @@ export const CAPABILITIES: CapabilityItem[] = [
       "Municipal land banks and housing development agencies",
       "Financial institutions holding real-estate-owned (REO) portfolios"
     ],
-    imageSrc: "/src/assets/images/hero_corporate_facility_1792504461500.jpg",
+    imageSrc: heroCorporateFacilityImg,
     imageAlt: "Commercial property grounds and exterior facility preservation"
   },
   {
@@ -200,7 +214,7 @@ export const CAPABILITIES: CapabilityItem[] = [
       "Commercial office buildings, property management complexes",
       "Educational, institutional, and healthcare administrative spaces"
     ],
-    imageSrc: "/src/assets/images/facility_interior_finishing_1792504462310.jpg",
+    imageSrc: facilityInteriorFinishingImg,
     imageAlt: "Craftsmen performing high-quality interior painting and architectural finishing"
   },
   {
@@ -221,7 +235,7 @@ export const CAPABILITIES: CapabilityItem[] = [
       "Commercial primes seeking agile, responsive small business partners",
       "Growing enterprises structuring their procurement operations"
     ],
-    imageSrc: "/src/assets/images/hero_corporate_facility_1792504461500.jpg",
+    imageSrc: heroCorporateFacilityImg,
     imageAlt: "Modern corporate conference facility for business strategy"
   }
 ];
