@@ -1,0 +1,1229 @@
+# MASTER WEBSITE DEVELOPMENT PROMPT: RSVP ROSES LLC
+
+## 1. PROJECT OVERVIEW
+
+Design and develop a complete, premium, modern, highly responsive, smoothly animated, and conversion-focused corporate website for **RSVP ROSES LLC**, a woman-owned and minority-owned small business established in November 2019.
+
+The company provides integrated solutions across government procurement support, communications equipment sourcing, logistics and distribution, real estate and facilities consulting, property preservation, aesthetic and appearance enhancement, inclusive community engagement, and business development consulting.
+
+The primary business objective is to establish a credible online presence that supports the company's pursuit of federal government contracts, subcontracting opportunities, agency partnerships, commercial contracts, and other business opportunities.
+
+This must be a fully developed, production-quality website, not a static visual mockup or a generic landing page.
+
+The finished website should communicate five things immediately:
+
+1. RSVP ROSES is a serious, organized, and capable business.
+2. The company can coordinate multiple related operational requirements through one point of contact.
+3. Its service offerings are relevant to government agencies, prime contractors, procurement teams, property managers, and commercial organizations.
+4. The company values accountability, quality control, communication, inclusion, and community impact.
+5. Prospective partners can easily understand its capabilities and contact the company about a relevant opportunity.
+
+The website must feel like a thoughtfully art-directed corporate website built by a high-end digital agency. Avoid generic AI website aesthetics, predictable templates, excessive rounded cards, meaningless decorative graphics, generic stock photography, and unnecessary animation.
+
+Prioritize distinctive visual identity, excellent typography, purposeful interaction, clear information architecture, accessibility, performance, and professional credibility.
+
+## 2. COMPANY INFORMATION: SOURCE OF TRUTH
+
+Use the following information from the company's capability statement as the authoritative content source.
+
+**Company name:** RSVP ROSES LLC
+
+**Company tagline:** Efficient Solutions, Flourishing Results.
+
+**Supporting brand statement:** Where Aesthetics Meet Excellence & Equity.
+
+**Established:** November 2019.
+
+**Business type:** Minority-Owned / Woman-Owned Small Business (Incorporation), as described in the supplied capability statement.
+
+**Business address:**
+254 Chapman Rd, Ste 208 #26118,
+Newark, DE 19702, USA.
+
+**Telephone:** (302) 600-0137
+
+**Toll-free telephone:** 1 (877) 215-9744
+
+**Fax:** (302) 600-0162
+
+**Email:** info@rsvprose.com
+
+**Website listed in the capability statement:** www.rsvproses.com
+
+**Primary NAICS codes:**
+- 531390
+- 541611
+- 484110
+
+**Additional NAICS codes:**
+- 423690
+- 488510
+- 423450
+- 541810
+- 561730
+- 561210
+- 531310
+
+**CAGE code:** 24K75
+
+**Unique Entity Identifier (UEI):** GGPSJBBL8WK3
+
+**Service coverage:** Nationwide, with an operational focus in New York.
+
+### Brand positioning
+
+Build the entire website around the following positioning:
+
+RSVP ROSES is an integrated solutions partner that combines strategic consulting, procurement, logistics, property-related services, facilities improvements, and community-centered execution to help government and commercial organizations address operational needs.
+
+Its differentiators are:
+
+- All-In-One Equity Advantage: Integrating consulting, procurement, real estate, and property services through one point of contact.
+- Concept-to-Completion Delivery: Supporting the lifecycle of a project, from initial strategy and product sourcing to physical execution and maintenance.
+- Agile and Inclusive: Bringing a minority- and woman-owned business perspective to government support and community-focused work.
+- High-Touch Management: Prioritizing communication, responsiveness, service quality, and quality control.
+
+These differentiators must be visible throughout the website, not hidden in a single paragraph.
+
+### Important content integrity requirements
+
+Do not invent or fabricate any of the following:
+
+- Federal contracts awarded.
+- Past performance projects.
+- Government agency clients.
+- Contract values or revenue figures.
+- Customer testimonials or client logos.
+- Security clearances.
+- Certifications, including SBA, 8(a), HUBZone, WOSB, or EDWOSB certifications.
+- Insurance coverage, bonding capacity, or specific staffing levels.
+- Delivery guarantees or performance statistics.
+- Vendor partnerships or manufacturer authorizations.
+
+The capability statement describes the company as minority-owned and woman-owned. Display that description accurately without implying that a specific government certification has been verified.
+
+Do not invent additional NAICS codes, contract vehicles, government registrations, or procurement credentials.
+
+The supplied website address and email domain differ slightly. Preserve the supplied contact information, but flag the discrepancy for confirmation before launch. Do not silently substitute one domain for another.
+
+If the website builder needs a logo, company photographs, capability statement PDF, or additional information that has not been supplied, use an appropriate temporary placeholder or a clearly labeled editable asset rather than inventing company-specific material.
+
+## 3. CREATIVE DIRECTION AND VISUAL IDENTITY
+
+### Overall aesthetic
+
+Create a distinctive visual language that combines:
+
+- Editorial corporate design.
+- Modern institutional credibility.
+- Architectural and industrial precision.
+- Refined consulting-firm presentation.
+- Restrained references to growth, flourishing, and community.
+- High-quality digital product design.
+
+The result should feel sophisticated and established without pretending the company is a large multinational corporation.
+
+It should be professional enough for federal contracting officers and prime contractors, visually engaging enough to distinguish the business from competing small contractors, and intuitive enough for commercial clients.
+
+Avoid the stereotypical government contractor website that consists of a dark blue header, a stock photograph of businesspeople shaking hands, three generic service cards, and a contact form.
+
+Also avoid the opposite extreme of creating a lifestyle, beauty, wedding, floral, or luxury boutique website just because the company name contains the word "ROSES."
+
+The identity should be mature, distinctive, and operationally credible.
+
+### Color system
+
+Use this proposed palette as the initial visual direction:
+
+- **Deep aubergine:** #30202D — primary brand color and major background surfaces.
+- **Warm ivory:** #F6F2EB — primary light background.
+- **Muted rosewood:** #A65D67 — controlled brand accent.
+- **Soft sage:** #89958A — secondary accent for subtle growth and community references.
+- **Graphite:** #292A2C — primary text and dark neutral surfaces.
+- **Stone gray:** #D9D4CC — borders, dividers, and supporting surfaces.
+- **White:** #FFFFFF — used selectively for contrast and clarity.
+
+Use these colors intentionally, not equally.
+
+The website should primarily alternate between warm ivory and deep aubergine sections, with graphite typography and selective rosewood and sage accents.
+
+The rosewood should provide recognition and warmth without making the website look overly decorative. Sage should be used sparingly. Avoid large gradients, neon colors, glossy effects, or excessive accent colors.
+
+Do not use the default blue-and-white SaaS palette, purple-blue gradients, or generic AI-generated gradient backgrounds.
+
+All color combinations must meet WCAG AA contrast requirements wherever applicable. If any palette combination fails, adjust the foreground or background color while preserving the overall identity.
+
+### Typography
+
+Use a deliberate two-font system with strong typographic contrast.
+
+**Display typeface:** Instrument Serif, used selectively for large editorial headlines, highlighted phrases, and important brand statements.
+
+**Interface and body typeface:** Manrope, used for navigation, body copy, labels, metadata, buttons, forms, and company information.
+
+Use restrained letter spacing, excellent line height, and carefully controlled text widths.
+
+Headlines should feel editorial and confident, while body copy remains extremely readable.
+
+Use large typography only where it improves hierarchy. Do not make every heading oversized.
+
+Use tabular numerals or another appropriate numerical treatment for NAICS codes, CAGE, UEI, telephone numbers, and other structured company information.
+
+Load font files efficiently and provide appropriate fallback fonts. If either typeface cannot be loaded, preserve the intended visual hierarchy with a close substitute.
+
+Do not use generic default typography without making a deliberate design choice.
+
+### Layout language
+
+Use a 12-column desktop grid, generous but controlled spacing, clear alignment, and strong relationships between content and imagery.
+
+Vary the composition between sections. Use asymmetric layouts, editorial text-image arrangements, full-width visual moments, structured data panels, and purposeful negative space.
+
+The site should not look like a sequence of identical cards.
+
+Use:
+
+- Large, confident headlines.
+- Fine dividing lines.
+- Small uppercase section labels.
+- Clear content hierarchy.
+- Strong horizontal alignment.
+- Controlled image cropping.
+- Layered but restrained visual compositions.
+- Generous whitespace around important content.
+- Occasional dark full-width sections for visual contrast.
+
+Use moderate corner radii, generally between 4px and 12px, depending on the component. Prefer clean geometry over excessive pill-shaped containers.
+
+Use a consistent spacing scale based on 4px or 8px increments.
+
+Avoid glassmorphism, floating gradient blobs, random abstract 3D shapes, unnecessary floating widgets, decorative code snippets, and repetitive feature-card grids.
+
+## 4. WEBSITE ARCHITECTURE
+
+Build the following pages with a consistent design system:
+
+1. Home
+2. About Us
+3. Capabilities
+4. Government Contracting
+5. Industries and Markets
+6. Contact
+7. Privacy Policy
+
+The homepage should function as a persuasive overview of the company, while the other pages provide more detailed information for serious prospects and procurement stakeholders.
+
+If appropriate for the selected website builder, structure the capabilities page using clean, shareable URL paths such as:
+
+- /capabilities
+- /government-contracting
+- /industries
+- /about
+- /contact
+- /privacy-policy
+
+The navigation should remain simple and should not overwhelm visitors with too many menu items.
+
+## 5. GLOBAL NAVIGATION AND HEADER
+
+Create a premium navigation header.
+
+### Desktop header
+
+At the top of the homepage, the header should sit against the hero background with a carefully considered appearance.
+
+Include:
+
+- Company logo or a clean, typographic RSVP ROSES wordmark.
+- Home
+- About
+- Capabilities
+- Government Contracting
+- Industries
+- Contact
+- A prominent "Discuss an Opportunity" CTA.
+
+Use a restrained logo treatment. If the original logo is unavailable, create a typographic placeholder rather than inventing a complex emblem.
+
+The navigation should use generous spacing, clear typography, and subtle hover interactions.
+
+On scroll, transition the header into a compact sticky header with a solid or appropriately opaque background, a subtle bottom border, and a smooth height change.
+
+The header must not obscure page headings when users navigate through anchor links.
+
+### Dropdown interaction
+
+The Capabilities navigation item may reveal a well-organized dropdown with the seven service categories.
+
+Use a refined mega-menu only if it improves usability. Do not create an oversized dropdown filled with unnecessary descriptions.
+
+Support pointer, keyboard, and touch interaction.
+
+### Mobile navigation
+
+On mobile, use a custom, accessible menu button.
+
+The menu should open and close smoothly, with a clear close button, readable navigation links, visible focus states, and the primary CTA.
+
+Prevent background scrolling while the mobile menu is open. Close it after navigation and allow users to close it with Escape.
+
+Do not use a generic, unstyled hamburger menu.
+
+## 6. HOMEPAGE: COMPLETE SECTION-BY-SECTION DESIGN
+
+### Section 1: Hero
+
+The hero must immediately communicate the company's identity, capabilities, and professionalism.
+
+Make it visually captivating without relying on an oversized generic stock photograph or an animated gradient.
+
+**Eyebrow:**
+
+GOVERNMENT & COMMERCIAL SOLUTIONS
+
+**Main headline:**
+
+Integrated Solutions.
+Efficient Execution.
+Flourishing Results.
+
+Use the display typeface to give the headline a distinctive editorial character. Consider emphasizing "Flourishing Results" with the display serif and a restrained rosewood accent.
+
+**Supporting copy:**
+
+RSVP ROSES LLC brings procurement, logistics, property services, facilities improvements, and strategic consulting together to support the operational needs of government and commercial partners.
+
+**Primary CTA:**
+
+Explore Our Capabilities
+
+Link to the capabilities section or page.
+
+**Secondary CTA:**
+
+Discuss an Opportunity
+
+Link to the contact page.
+
+Include a small, understated trust-information strip containing verified company facts:
+
+- Established 2019
+- Nationwide Service Coverage
+- CAGE: 24K75
+- Woman-Owned and Minority-Owned Small Business
+
+Do not present these details as certification badges.
+
+#### Hero visual concept
+
+Create an art-directed visual that communicates coordination, infrastructure, property, logistics, and execution.
+
+Preferred approach: use a refined photographic composition combining architecture, a contemporary commercial or government facility, and a subtle logistics or infrastructure element. Use professional imagery with consistent color grading, strong geometry, and authentic visual detail.
+
+Alternatively, use a split composition: large editorial typography on one side and a striking architectural photograph on the other, with a small structured company-information panel integrated into the composition.
+
+The hero imagery must support the company's real services.
+
+Do not use obvious AI-generated imagery of distorted buildings, impossible infrastructure, artificial-looking people, illegible signage, or fake corporate logos.
+
+Do not use a giant flower, rose illustration, or decorative botanical photograph as the primary visual. The brand's flourishing theme should be expressed through typography, color, composition, and a restrained visual motif.
+
+#### Hero animation
+
+On first load:
+
+- Reveal the eyebrow with a subtle fade and upward movement.
+- Reveal the headline in two or three carefully timed groups.
+- Fade and translate the supporting paragraph into view.
+- Reveal the CTA buttons with a slight delay.
+- Introduce the hero image using a gentle clip-path reveal or a subtle opacity transition.
+- Allow the small company-information strip to appear last.
+
+Keep the complete entrance sequence short and polished. The animation should not delay access to the content.
+
+Use a subtle image movement on desktop only if it remains performant and does not distract from the headline.
+
+Never use dramatic zooms, bouncing text, spinning objects, or excessive stagger animations.
+
+### Section 2: Credibility and company snapshot
+
+Create a horizontal information strip immediately below the hero.
+
+Use a contrasting background, fine dividing lines, and structured typography.
+
+Display:
+
+- Established: November 2019
+- CAGE Code: 24K75
+- Primary NAICS: 531390, 541611, 484110
+- Service Coverage: Nationwide, with an operational focus in New York
+
+Make the values easy to scan and copy.
+
+On mobile, convert the strip into a clean two-column or stacked layout without horizontal overflow.
+
+Do not invent numerical metrics such as contract volume, project count, annual revenue, or client satisfaction percentages.
+
+### Section 3: Introduction and value proposition
+
+**Section label:**
+
+WHO WE ARE
+
+**Headline:**
+
+One Partner. Multiple Capabilities. A More Connected Approach.
+
+**Body copy:**
+
+RSVP ROSES LLC supports government and commercial organizations through a coordinated range of procurement, logistics, consulting, property, and facilities services. Our approach brings strategic planning and practical execution together, helping partners address complex operational needs through a single point of contact.
+
+**Supporting statement:**
+
+From initial strategy and sourcing to project execution and ongoing maintenance, we focus on responsive communication, thoughtful coordination, and quality-driven delivery.
+
+**CTA:**
+
+Discover RSVP ROSES
+
+Link to the About Us page.
+
+#### Design direction
+
+Use an asymmetric two-column layout.
+
+The left side should feature the headline and copy. The right side should feature a carefully selected architectural or operational photograph, with a small editorial caption or geometric detail.
+
+Use warm ivory as the background, graphite typography, and a restrained rosewood accent.
+
+Do not surround the content in a giant rounded card.
+
+### Section 4: Core competencies
+
+**Section label:**
+
+WHAT WE DO
+
+**Headline:**
+
+Capabilities Designed Around Real Operational Needs.
+
+**Supporting copy:**
+
+Our capabilities span procurement, distribution, consulting, property services, facilities improvements, and community engagement.
+
+Present all seven competencies clearly. Do not merge, remove, or rename a capability in a way that changes the meaning of the original statement.
+
+Create seven distinct service modules with a consistent visual system but varied, considered compositions.
+
+#### Capability 01: Communication Systems Procurement
+
+**Description:**
+
+Sourcing, supply, and integration of mission-critical communication systems, including Push-to-Talk over Cellular (PoC) radios and associated hardware.
+
+**Key consideration:**
+
+The company states that it ensures compliance with applicable TAA and Section 889 federal requirements. Present this statement accurately without implying a separate certification or manufacturer authorization.
+
+**Visual direction:**
+
+Professional communications hardware, radio equipment, or a restrained close-up of communication infrastructure.
+
+#### Capability 02: Logistics & Equipment Distribution
+
+**Description:**
+
+End-to-end supply chain support for the secure, timely, and compliant delivery of specialized equipment and supplies for federal and commercial operations.
+
+**Visual direction:**
+
+Warehousing, organized distribution, cargo handling, or professional logistics environments.
+
+#### Capability 03: Real Estate & Facilities Consulting
+
+**Description:**
+
+Advisory services for real estate acquisitions, dispositions, and portfolio management, combining market analysis with strategic property solutions.
+
+**Visual direction:**
+
+Contemporary commercial architecture, property plans, or building exteriors.
+
+#### Capability 04: Inclusive Community Engagement
+
+**Description:**
+
+Helping bridge the gap between government programs and underserved communities so that public initiatives and services can reach the populations they are intended to serve.
+
+**Visual direction:**
+
+Authentic community infrastructure, accessible public facilities, or documentary-style community environments. Avoid stereotypical or exploitative imagery.
+
+#### Capability 05: Property Preservation & Asset Management
+
+**Description:**
+
+Support for foreclosure-related property preservation, maintenance, and asset disposition, helping preserve properties and prepare them for successful community transition.
+
+**Visual direction:**
+
+Property maintenance, building rehabilitation, and well-maintained residential or commercial properties.
+
+#### Capability 06: Aesthetic & Appearance Enhancement
+
+**Description:**
+
+High-quality painting, finishing, and interior improvements for federal and commercial facilities, with an emphasis on refined results, local hiring, and community-centered execution.
+
+**Visual direction:**
+
+Professional painting, finished interiors, facility renovations, and clean architectural details.
+
+#### Capability 07: Business Development Consulting
+
+**Description:**
+
+Helping agencies and commercial partners refine procurement strategies and strengthen internal capacity to meet evolving mission requirements.
+
+**Visual direction:**
+
+Technical planning, organized project documentation, and professional strategy sessions.
+
+#### Interactive behavior
+
+Each service module should include:
+
+- A numbered label.
+- A clear service title.
+- A short description.
+- A relevant photograph or carefully designed visual.
+- A subtle arrow or directional indicator.
+- A "Learn More" link.
+
+Hovering over a module should create a subtle visual response: a small image scale change, slight background shift, underline reveal, or arrow movement.
+
+Make the entire module clickable only when the interaction is intuitive and accessible.
+
+Clicking a module should open its dedicated service detail section or a clearly structured service page.
+
+Do not use seven identical cards with floating icons. Use a mixture of editorial image-and-text blocks, horizontal modules, and asymmetric layouts to create visual rhythm.
+
+All seven capabilities must remain easy to find on mobile.
+
+### Section 5: The RSVP ROSES difference
+
+**Section label:**
+
+WHY RSVP ROSES
+
+**Headline:**
+
+A Connected Approach. From Strategy to Execution.
+
+Present the four differentiators from the capability statement.
+
+#### 01. The All-In-One Equity Advantage
+
+We integrate business development, real estate consulting, procurement, and property services to provide a coordinated point of contact for complex operational needs.
+
+#### 02. Concept-to-Completion Delivery
+
+We support projects from initial strategy and product sourcing through physical execution and maintenance.
+
+#### 03. Agile & Inclusive
+
+As a minority- and woman-owned small business, RSVP ROSES brings an inclusive perspective to government support, emphasizing equity and community-driven results.
+
+#### 04. High-Touch Management
+
+We prioritize consistent communication, responsive coordination, and quality control throughout our engagements.
+
+#### Design direction
+
+Use a deep aubergine full-width section with warm ivory text and restrained rosewood details.
+
+Present the four differentiators as a carefully aligned editorial sequence rather than four generic feature cards.
+
+Use fine divider lines, large section numbers, and generous spacing.
+
+On desktop, a two-column composition or a vertically arranged sequence may be used.
+
+On mobile, stack the content naturally and preserve generous spacing.
+
+#### Interaction
+
+As the user scrolls, reveal each differentiator with a short opacity and vertical translation animation.
+
+Use an optional animated vertical progress line only if it adds clarity and remains accessible.
+
+Do not use continuously animated counters or decorative motion that serves no informational purpose.
+
+### Section 6: How we work
+
+**Section label:**
+
+OUR APPROACH
+
+**Headline:**
+
+A Clear Path from Requirement to Delivery.
+
+Explain the company's concept-to-completion approach through four stages.
+
+**Stage 01 — Understand**
+
+Understand the requirement, operational context, objectives, and expected outcomes.
+
+**Stage 02 — Plan & Source**
+
+Develop an appropriate approach, identify sourcing or service requirements, and coordinate the necessary resources.
+
+**Stage 03 — Execute & Coordinate**
+
+Coordinate delivery, project activities, property services, or other agreed work according to the engagement's requirements.
+
+**Stage 04 — Review & Maintain**
+
+Prioritize quality control, communication, and appropriate follow-through or maintenance where required.
+
+Label this as the company's working approach, not a guaranteed four-step process applicable to every contract.
+
+#### Interactive design
+
+Build a horizontal four-stage process on desktop with a clear progression line.
+
+On mobile, transform it into a vertical timeline.
+
+Use subtle line-drawing animation as the stages enter the viewport.
+
+Allow a user to select a stage to reveal its supporting description if this interaction improves usability. Ensure the same information is available without interaction.
+
+Do not create a fake real-time progress tracker or imply that a visitor is tracking an actual contract.
+
+### Section 7: Government contracting and procurement
+
+**Section label:**
+
+GOVERNMENT CONTRACTING
+
+**Headline:**
+
+Supporting Mission Requirements with Coordinated Solutions.
+
+**Body copy:**
+
+RSVP ROSES LLC provides capabilities across communications procurement, equipment distribution, facilities-related services, property preservation, and strategic consulting. We welcome opportunities to engage with government agencies, prime contractors, and commercial partners whose requirements align with our capabilities.
+
+**Secondary paragraph:**
+
+Whether the requirement involves sourcing specialized equipment, coordinating logistics, supporting property-related operations, or contributing consulting expertise, we aim to provide a responsive and coordinated approach.
+
+**Primary CTA:**
+
+Discuss a Contract Opportunity
+
+**Secondary CTA:**
+
+Review Our Capabilities
+
+#### Design direction
+
+Create a strong, high-credibility section with a deep charcoal or aubergine background, editorial typography, and a photograph of a real commercial or public-sector facility.
+
+Use a structured information panel displaying:
+
+- Legal business name: RSVP ROSES LLC
+- CAGE: 24K75
+- UEI: GGPSJBBL8WK3
+- Primary NAICS codes: 531390, 541611, 484110
+- Additional NAICS codes: 423690, 488510, 423450, 541810, 561730, 561210, 531310
+
+Provide a clear link to the full Capabilities page.
+
+If the supplied capability statement PDF is available as an approved website asset, offer it as a downloadable document. Otherwise, do not create a fake download button.
+
+Do not claim that the company has won federal contracts, is approved under a specific set-aside program, or is registered on a contract vehicle unless this is independently confirmed and authorized by the client.
+
+### Section 8: Industries and markets served
+
+**Section label:**
+
+WHERE OUR CAPABILITIES APPLY
+
+**Headline:**
+
+Solutions for Complex, Interconnected Environments.
+
+Organize the company's offerings into five market groupings.
+
+**Government & Public Sector**
+
+Communications procurement, equipment sourcing, business development consulting, and facilities-related support.
+
+**Prime Contractors & Procurement Partners**
+
+Potential subcontracting and supplier collaboration opportunities aligned with the company's listed capabilities.
+
+**Commercial Property & Real Estate**
+
+Property consulting, asset management, preservation, and facility improvements.
+
+**Logistics & Equipment Supply**
+
+Equipment distribution, sourcing, and coordinated supply chain support.
+
+**Community-Focused Initiatives**
+
+Inclusive engagement and property-related activities that support community-centered outcomes.
+
+Make it clear that these are relevant markets and potential partnership contexts, not a list of verified existing customers.
+
+Use an image-led editorial grid with varying image proportions, clear headings, and concise copy.
+
+Each market grouping should link to relevant capability information or the contact form.
+
+### Section 9: Company facts and ownership
+
+**Headline:**
+
+A Small Business Built Around Coordinated Solutions.
+
+Provide a clean company information section containing the verified information from the capability statement.
+
+- Legal name: RSVP ROSES LLC
+- Established: November 2019
+- Business type: Minority-Owned / Woman-Owned Small Business, as stated in the capability statement
+- Primary service coverage: Nationwide, with an operational focus in New York
+- CAGE: 24K75
+- UEI: GGPSJBBL8WK3
+
+Include the complete primary and additional NAICS lists.
+
+Use a restrained table or structured data layout with clear labels and values.
+
+Provide a "Copy" interaction for individual codes where useful. Show a small confirmation message when a value has been copied.
+
+Do not use a copy interaction that silently fails, and do not make structured company data difficult to select with a mouse or keyboard.
+
+### Section 10: Closing call to action
+
+This should be a strong, visually memorable conclusion to the homepage.
+
+**Headline:**
+
+Have a Requirement to Discuss?
+
+**Supporting copy:**
+
+Tell us about your procurement, logistics, property, facilities, or consulting needs. RSVP ROSES LLC welcomes conversations about aligned government and commercial opportunities.
+
+**Primary CTA:**
+
+Start a Conversation
+
+**Secondary CTA:**
+
+Explore Our Capabilities
+
+Use a warm ivory background, large display typography, a subtle rosewood accent, and a strong visual relationship with the footer.
+
+A restrained architectural image or a carefully designed geometric composition may be used as a secondary visual.
+
+Avoid generic motivational slogans or an exaggerated sales tone.
+
+### Section 11: Footer
+
+Create a polished footer with a deep aubergine background and clearly organized information.
+
+**Company identity**
+
+RSVP ROSES LLC
+
+Efficient Solutions, Flourishing Results.
+
+**Navigation**
+
+Home, About, Capabilities, Government Contracting, Industries, Contact, Privacy Policy.
+
+**Contact**
+
+254 Chapman Rd, Ste 208 #26118, Newark, DE 19702
+
+Phone: (302) 600-0137
+
+Toll-free: 1 (877) 215-9744
+
+Fax: (302) 600-0162
+
+Email: info@rsvprose.com
+
+**Company information**
+
+CAGE: 24K75
+
+UEI: GGPSJBBL8WK3
+
+Established: 2019
+
+**Copyright**
+
+© [current year] RSVP ROSES LLC. All rights reserved.
+
+Use a dynamically generated current year.
+
+The footer should be visually refined, not excessively tall, and should maintain good contrast.
+
+Do not add social media icons unless official company profiles have been provided and verified.
+
+## 7. ABOUT US PAGE
+
+Create a dedicated About Us page that establishes the company's identity, philosophy, and operating approach.
+
+### Hero
+
+**Headline:**
+
+Built on Coordination. Guided by Quality. Focused on Results.
+
+**Introduction:**
+
+RSVP ROSES LLC is a small business providing integrated solutions across procurement, logistics, consulting, property services, facilities improvements, and inclusive community engagement.
+
+Established in November 2019, the company brings these capabilities together through a coordinated approach designed to address the needs of government and commercial partners.
+
+### Our purpose
+
+Explain the company's focus on connecting strategic planning with practical execution, simplifying coordination across related requirements, and maintaining responsive communication throughout engagements.
+
+### Our operating philosophy
+
+Present four principles:
+
+- Accountability and clear communication.
+- Coordinated delivery from planning to execution.
+- Quality-conscious service and follow-through.
+- Inclusive, community-aware engagement.
+
+Present these as operating principles derived from the capability statement, not as independently certified standards.
+
+### Our approach
+
+Expand on the All-In-One Equity Advantage, Concept-to-Completion Delivery, Agile & Inclusive perspective, and High-Touch Management approach.
+
+### Company information
+
+Display the verified business details, CAGE, UEI, service area, and NAICS codes.
+
+End with a clear CTA to discuss a potential engagement.
+
+Use editorial layouts, thoughtful typography, and appropriate imagery. Avoid fabricated founder biographies, employee photographs, personal stories, mission statements, or company milestones that have not been supplied.
+
+## 8. CAPABILITIES PAGE
+
+This is one of the most important pages on the website because procurement officers and prime contractors need to understand the company's offerings quickly.
+
+### Page introduction
+
+**Headline:**
+
+Our Capabilities
+
+**Supporting copy:**
+
+Explore RSVP ROSES LLC's integrated services across procurement, logistics, real estate, facilities, property preservation, community engagement, and business development consulting.
+
+### Capabilities overview
+
+Create a structured overview of all seven core competencies, with clear descriptions and links to their individual detail sections.
+
+### Individual capability detail sections
+
+Expand each capability using the supplied descriptions.
+
+For each capability, provide:
+
+- Capability name.
+- Detailed service description.
+- Relevant activities explicitly supported by the capability statement.
+- Applicable markets or partner types, presented as potential applications.
+- A relevant visual.
+- A CTA to discuss a related requirement.
+
+Do not add technical capabilities that are absent from the source document.
+
+For example, do not automatically claim cybersecurity, telecommunications engineering, radio-frequency design, custom hardware manufacturing, licensed brokerage, general contracting licenses, hazardous-material handling, or specialized certifications.
+
+Where the company's precise delivery scope is unclear, use wording that invites clarification rather than claiming expertise that has not been documented.
+
+### Company data section
+
+Include every primary and additional NAICS code exactly as supplied.
+
+Use a readable, structured layout.
+
+If the website builder supports semantic tables, use them where appropriate.
+
+### Downloadable capability statement
+
+If the client provides an approved PDF, place a prominent "Download Capability Statement" link near the beginning of the page and again near the company information section.
+
+The file must be a real, working document.
+
+If no approved PDF is available, provide a clearly visible placeholder in the editing workflow and do not display a nonfunctional download link on the published site.
+
+## 9. GOVERNMENT CONTRACTING PAGE
+
+Build a page specifically for potential federal buyers, procurement professionals, and prime contractors.
+
+### Hero
+
+**Headline:**
+
+A Responsive Partner for Government and Commercial Requirements.
+
+**Supporting copy:**
+
+RSVP ROSES LLC brings together procurement, equipment distribution, property services, facilities improvements, and consulting capabilities to support aligned operational requirements.
+
+**CTA:**
+
+Discuss a Requirement
+
+### What we bring
+
+Explain the four company differentiators:
+
+1. Integrated capabilities across related service areas.
+2. Concept-to-completion project coordination.
+3. An inclusive, community-aware approach.
+4. High-touch communication and quality control.
+
+### Relevant procurement capabilities
+
+Organize the seven capabilities into easy-to-scan groups without removing the original service categories.
+
+For example, group procurement and logistics together visually while retaining their separate descriptions. Do the same for property and facilities-related services.
+
+### Company identifiers
+
+Display CAGE, UEI, primary NAICS codes, additional NAICS codes, and the business ownership description.
+
+### Potential engagement types
+
+Invite inquiries about:
+
+- Direct procurement and supply requirements aligned with the company's capabilities.
+- Subcontracting and supplier collaboration opportunities.
+- Logistics and equipment distribution needs.
+- Property preservation and facilities-related requirements.
+- Consulting and community engagement needs.
+
+These are potential engagement types, not claims of existing contract awards or guaranteed eligibility.
+
+### Call to action
+
+**Headline:**
+
+Let's Discuss Your Requirement.
+
+**Copy:**
+
+Share your procurement need, project scope, or potential partnership opportunity so we can determine whether it aligns with RSVP ROSES LLC's capabilities.
+
+**Button:**
+
+Contact RSVP ROSES
+
+Do not create fake past-performance projects, agency seals, government endorsements, contract award badges, or fabricated procurement credentials.
+
+## 10. INDUSTRIES PAGE
+
+Create a concise, professional page that helps visitors understand how the company's services relate to different markets.
+
+Use the following groupings:
+
+- Government and public-sector requirements.
+- Prime contractors and supplier partnerships.
+- Commercial real estate and property operations.
+- Equipment sourcing and logistics.
+- Facilities improvements and community-focused projects.
+
+For each group, identify the relevant services, explain the potential application, and provide a CTA.
+
+Do not imply that every service is available under every contract, or that every industry grouping represents an existing client relationship.
+
+Use relevant imagery and differentiated layouts rather than repeating the same five-card grid.
+
+## 11. CONTACT PAGE AND LEAD GENERATION
+
+The contact page must be functional, accessible, and designed to generate qualified business inquiries.
+
+### Page heading
+
+**Headline:**
+
+Let's Discuss Your Next Requirement.
+
+**Supporting copy:**
+
+Whether you're exploring a procurement opportunity, looking for a supplier or subcontracting partner, or seeking support with property, facilities, logistics, or consulting needs, we'd welcome the opportunity to learn more.
+
+### Contact information
+
+Display the verified contact details prominently:
+
+- Phone: (302) 600-0137
+- Toll-free: 1 (877) 215-9744
+- Fax: (302) 600-0162
+- Email: info@rsvprose.com
+- Address: 254 Chapman Rd, Ste 208 #26118, Newark, DE 19702
+
+Make telephone numbers clickable with appropriate telephone links.
+
+Make the email address clickable with a mailto link.
+
+Include a map only if the location can be accurately verified and embedding the map adds value. Otherwise, display the address in a clean contact panel.
+
+### Contact form
+
+Create a refined, accessible form with the following fields:
+
+1. Full name — required.
+2. Business email — required.
+3. Company or organization — optional.
+4. Phone number — optional.
+5. Inquiry type — required dropdown.
+6. Project or requirement description — required.
+7. Preferred contact method — optional.
+8. Privacy acknowledgement — required where appropriate for the form's processing.
+
+Inquiry type options:
+
+- Government Contracting Opportunity.
+- Subcontracting or Supplier Partnership.
+- Communication Systems Procurement.
+- Logistics and Equipment Distribution.
+- Real Estate and Facilities Consulting.
+- Property Preservation and Asset Management.
+- Aesthetic and Appearance Enhancement.
+- Business Development Consulting.
+- Other Inquiry.
+
+Use clear field labels, helpful validation messages, appropriate input types, and visible focus states.
+
+After submission, show a professional confirmation message only when the submission has actually been accepted.
+
+If the form fails, display a useful error message and preserve the user's entered information where practical.
+
+Never display a fake success message.
+
+### Form implementation
+
+Connect the form to a real submission endpoint, CRM, or approved email service.
+
+Do not assume a frontend-only form will deliver email.
+
+If the website builder cannot configure the backend automatically, clearly identify the remaining configuration steps and the required environment variables or service credentials.
+
+Do not expose API keys, SMTP passwords, or private credentials in client-side code.
+
+Use appropriate spam prevention, server-side validation, and rate limiting.
+
+Do not promise a response within 24 hours or another specific timeframe unless the client has approved that commitment.
+
+## 12. ANIMATION AND INTERACTION SYSTEM
+
+Animation is an important part of this project, but it must reinforce the design instead of distracting from the content.
+
+Use Framer Motion or an equivalent animation library if the selected technology supports it efficiently.
+
+### Global motion principles
+
+- Prefer opacity and transform animations.
+- Keep most entrance transitions between approximately 250ms and 650ms.
+- Use subtle easing curves rather than linear or bouncy motion.
+- Avoid animating large numbers of elements simultaneously.
+- Use scroll-triggered animations once per element or section where appropriate.
+- Do not replay long entrance animations whenever the visitor scrolls slightly up and down.
+- Never delay access to essential information until an animation completes.
+- Avoid scroll-jacking and forced scrolling.
+- Ensure the site remains usable if JavaScript animations fail.
+
+### Required interactive details
+
+Implement:
+
+**1. Animated header**
+
+Smoothly transition from the initial header state to the compact sticky state when scrolling.
+
+**2. Text reveals**
+
+Reveal important headlines with a refined fade and upward movement. Use text masks only where they improve the design.
+
+**3. Image reveals**
+
+Use gentle clipping or opacity transitions on selected editorial photographs.
+
+**4. Service hover states**
+
+Animate arrows, underlines, image crops, or subtle background changes.
+
+**5. Navigation interactions**
+
+Include clear hover, active, focus, expanded, and collapsed states.
+
+**6. Scroll progress**
+
+Optionally include a thin, unobtrusive scroll progress indicator if it enhances the page experience.
+
+**7. Copy-to-clipboard**
+
+Allow users to copy company identifiers or NAICS codes, with a clear confirmation message.
+
+**8. Contact form**
+
+Include field focus animations, validation states, loading feedback, and clear submission outcomes.
+
+**9. Mobile navigation**
+
+Animate the menu opening and closing smoothly while preserving accessibility.
+
+**10. Back-to-top interaction**
+
+Include a small, unobtrusive back-to-top control on long pages if useful.
+
+### Reduced-motion support
+
+Respect the user's operating-system `prefers-reduced-motion` setting.
+
+When reduced motion is enabled:
+
+- Remove unnecessary parallax.
+- Reduce large transforms.
+- Avoid animated text masking.
+- Replace complex reveals with immediate or subtle opacity changes.
+- Ensure all content remains visible.
+
+### Animation performance
+
+Use Intersection Observer or the animation library's equivalent for viewport-based triggers.
+
+Avoid continuous animation loops, excessive blur effects, expensive filters, and unnecessary JavaScript work.
+
+Do not animate every element simply because animation is available.
+
+## 13. IMAGE DIRECTION AND ASSET SELECTION
+
+Imagery must support the company's real capabilities and feel authentic, professional, and cohesive.
+
+### Preferred visual categories
+
+- Commercial and institutional architecture.
+- Communications equipment and operational hardware.
+- Professional logistics and distribution environments.
+- Property maintenance and building improvement.
+- Commercial interiors and facility upgrades.
+- Property management and real estate environments.
+- Authentic community infrastructure.
+- Professional planning and operational coordination.
+
+### Image treatment
+
+Use a consistent visual treatment across the site.
+
+Prefer natural lighting, architectural geometry, realistic materials, subtle color grading, and images with deliberate composition.
+
+Use a mixture of wide images, vertical crops, and detail photographs according to the layout.
+
+Where practical, source genuine, commercially licensed photography from reputable stock libraries or use company-provided imagery.
+
+Do not present generic stock photographs as verified images of RSVP ROSES personnel, projects, facilities, or clients.
+
+Do not use fake government agency logos, seals, flags as decorative wallpaper, fabricated equipment branding, or AI-generated photographs that imply real project experience.
+
+If AI-generated images are used as decorative visuals, they must not misrepresent the company's actual operations or past performance.
+
+Use descriptive alt text for meaningful images and empty alt attributes for purely decorative imagery.
+
+Optimize images with responsive sizing, modern formats such as WebP or AVIF, and lazy loading below the fold.
+
+Load the primary hero image efficiently so the first screen does not feel slow.
+
+## 14. RESPONSIVE DESIGN REQUIREMENTS
+
+The website must be genuinely responsive, not merely a desktop design compressed onto a mobile screen.
+
+Design and test for:
+
+- Small mobile devices: approximately 320–390px.
+- Larger mobile devices: approximately 391–767px.
+- Tablets: approximately 768–1023px.
+- Desktop: approximately 1024–1439px.
+- Large desktop: 1440px and above.
+
+### Mobile behavior
+
+- Use readable typography and comfortable line lengths.
+- Avoid horizontal scrolling.
+- Stack multi-column layouts logically.
+- Preserve the hierarchy of the main headline and CTAs.
+- Use appropriately sized touch targets, ideally at least 44 × 44 CSS pixels.
+- Convert horizontal process timelines into vertical timelines.
+- Ensure tables and company identifiers remain readable.
+- Use appropriately cropped images without hiding essential information.
+- Keep navigation and forms easy to operate with one hand.
+- Avoid excessive content density and unnecessarily tall decorative sections.
+- Do not shrink desktop text to fit a mobile viewport.
+- Keep interactive elements comfortably separated.
+
+### Tablet behavior
+
+Use tablet-specific layouts where necessary. Do not simply use desktop navigation and compress the content into narrower columns.
+
+### Large-screen behavior
+
+Use a consistent maximum content width, approximately 1200–1440px where appropriate, with larger margins on wide screens.
+
+Do not stretch paragraphs across the entire screen.
+
+## 15. TECHNICAL IMPLEMENTATION
+
+Build a real, maintainable website using the best-supported stack for the chosen AI website builder.
+
+If a code-based stack is available, prefer:
+
+- Next.js or React.
+- TypeScript.
+- Tailwind CSS or an equivalent maintainable styling system.
+- Framer Motion or a similarly efficient motion library.
+- Semantic HTML.
+- Reusable components and design tokens.
+
+These are preferred implementation choices, not a requirement to force an incompatible platform to use them.
+
+### Component architecture
+
+Build reusable components for:
+
+- Header and mobile navigation.
+- Hero.
+- Section headings.
+- Capability modules.
+- Differentiator sections.
+- Process timeline.
+- Company data panels.
+- Industry sections.
+- CTA blocks.
+- Contact form.
+- Footer.
+
+Keep content data separate from presentation where appropriate so the client can update services, company details, and contact information without rewriting entire pages.
+
+### Functional requirements
+
+- All navigation links must work.
+- All CTAs must lead to the correct destination.
+- Forms must have a real submission mechanism.
+- Telephone and email
